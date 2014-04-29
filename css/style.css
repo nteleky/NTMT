@@ -1,0 +1,17 @@
+
+
+/* Theme from Bootswatch */
+@import url('theme.css');
+
+  body {
+    padding-top: 70px;
+  }
+
+
+  #name {
+  	font-weight: bold;
+  	font-size: 60px;
+  }
+  #name span {
+  	color: #999;
+  }
