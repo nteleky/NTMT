@@ -15,3 +15,7 @@
   #name span {
   	color: #999;
   }
+
+  #note span {
+    font-weight: bold;
+  }
